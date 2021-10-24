@@ -3,7 +3,6 @@ I completed the homework given by Brian Yu and Mr. Malan (David J. Malan) at Har
 
 **I am happy to present this software to you!**
 
-
 ###**The coding language used:**
 
 `Python 3.9.6`
@@ -31,3 +30,5 @@ LinkedIn : **[https://www.linkedin.com/in/artificialintelligencebulut/][Linkedin
 Official Website: **[https://www.emirhanbulut.com.tr][OfficialWebSite]**
 
 [OfficialWebSite]: https://www.emirhanbulut.com.tr
+
+<img src="https://github.com/emirhanai/My-Artificial-Intelligence-Project-Tic-Tac-Toe-that-I-developed-and-made-at-Harvard-University/blob/main/harvard-emirhan.png?raw=true" alt="My Artificial Intelligence Project (Tic Tac Toe) that I developed and made at Harvard University">
